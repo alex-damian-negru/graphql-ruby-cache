@@ -54,6 +54,7 @@
     <orderEntry type="library" scope="PROVIDED" name="faker (v2.18.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.1, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="graphiql-rails (v1.7.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="graphql (v1.12.12, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.10, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.11.2, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
