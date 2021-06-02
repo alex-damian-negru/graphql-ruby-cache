@@ -32,6 +32,8 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'graphql', '~> 1.12', '>= 1.12.12'
 gem 'graphql-fragment_cache', '~> 1.8'
 gem 'rake', '~> 13.0', '>= 13.0.3'
+gem 'redis', '~> 4.2', '>= 4.2.5'
+gem 'redis-rails', '~> 5.0', '>= 5.0.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
