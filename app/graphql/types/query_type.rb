@@ -7,7 +7,7 @@ module Types
 
     description 'The query root of this schema'
 
-    field :users, [UserType], null: false
+    field :users, [UserType], null: false, cache_fragment: true
 
     def users
       User.all
