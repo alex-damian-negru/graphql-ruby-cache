@@ -42,6 +42,9 @@ group :development, :test do
   gem 'dotenv-rails', '~> 2.7.6'
   gem 'faker', '~> 2.18'
   gem 'populator', '~> 1.0'
+  gem 'pry-byebug', '~> 3.9'
+  gem 'pry-rails', '~> 0.3.9'
+  gem 'redis-rails-instrumentation', '~> 1.0.1'
 end
 
 group :development do
