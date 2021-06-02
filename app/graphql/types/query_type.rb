@@ -7,9 +7,9 @@ module Types
 
     description 'The query root of this schema'
 
-    field :posts, [UserType], null: false
+    field :users, [UserType], null: false
 
-    def posts
+    def users
       User.all
     end
   end
