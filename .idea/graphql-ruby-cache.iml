@@ -51,6 +51,7 @@
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.8, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.10.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v2.18.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.1, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.10, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
@@ -67,6 +68,7 @@
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.11.6, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="parallel (v1.20.1, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="parser (v3.0.1.1, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="populator (v1.0.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.6, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v5.3.2, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.5.2, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
