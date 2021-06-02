@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
+gem 'dotenv', '~> 2.7', '>= 2.7.6'
 gem 'graphql', '~> 1.12', '>= 1.12.12'
 gem 'graphql-fragment_cache', '~> 1.8'
 gem 'rake', '~> 13.0', '>= 13.0.3'
@@ -38,6 +39,7 @@ gem 'redis-rails', '~> 5.0', '>= 5.0.2'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'dotenv-rails', '~> 2.7.6'
   gem 'faker', '~> 2.18'
   gem 'populator', '~> 1.0'
 end
