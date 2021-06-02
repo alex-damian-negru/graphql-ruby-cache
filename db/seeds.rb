@@ -2,6 +2,6 @@
 
 require_relative '../lib/populator_fix'
 
-User.populate 100 do |user|
+User.populate 10_000 do |user|
   user.name = Faker::Name.first_name
 end
