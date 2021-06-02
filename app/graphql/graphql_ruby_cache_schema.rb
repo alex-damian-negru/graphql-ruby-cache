@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 class GraphqlRubyCacheSchema < GraphQL::Schema
-  mutation(Types::MutationType)
   query(Types::QueryType)
 
   # Union and Interface Resolution
