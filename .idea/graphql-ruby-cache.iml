@@ -90,6 +90,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rubocop-ast (v1.7.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop-performance (v1.11.3, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop-rails (v2.10.1, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop-rake (v0.5.1, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.11.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v6.0.0, RVM: ruby-2.7.2 [graphql-caching]) [gem]" level="application" />

@@ -29,10 +29,13 @@ gem 'jbuilder', '~> 2.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
+gem 'rake', '~> 13.0', '>= 13.0.3'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'faker', '~> 2.18'
+  gem 'populator', '~> 1.0'
 end
 
 group :development do
@@ -46,6 +49,7 @@ group :development do
   gem 'rubocop', '~> 1.16'
   gem 'rubocop-performance', '~> 1.11', '>= 1.11.3'
   gem 'rubocop-rails', '~> 2.10', '>= 2.10.1'
+  gem 'rubocop-rake', '~> 0.5.1'
   gem 'spring', '~> 2.1', '>= 2.1.1'
 end
 
@@ -55,11 +59,6 @@ group :test do
   gem 'selenium-webdriver'
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
-end
-
-group :development, :test do
-  gem 'faker', '~> 2.18'
-  gem 'populator', '~> 1.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
